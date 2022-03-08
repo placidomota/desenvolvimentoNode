@@ -1,0 +1,25 @@
+{
+  "name": "desenvolvimento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/placidomota/desenvolvimentoNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/placidomota/desenvolvimentoNode/issues"
+  },
+  "homepage": "https://github.com/placidomota/desenvolvimentoNode#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0"
+  }
+}
